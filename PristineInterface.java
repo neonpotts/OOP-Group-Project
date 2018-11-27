@@ -104,5 +104,8 @@ public class PristineInterface extends JFrame implements ActionListener {
 			LoginForm dn = new LoginForm();//////**
 			dn.setVisible(true);
 		}
+		if(source.equals(itemExit)){
+			System.exit(0);
+		}
 	}
 }
