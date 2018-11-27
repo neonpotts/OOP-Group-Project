@@ -1,0 +1,31 @@
+To start the game, each player chooses a token and the bank will distributes each player $1500.
+
+ The highest roll of the dice will go first. Start in the GO and move clockwise around the board
+ according to the number on the dice. If you land on an available  property, you can buy it by
+ paying the banker the price listed on the title. The advantage of owning property is that other
+ players have to pay you rent when they land on your square. If you buy all of the properties
+ in the same color group, then you have a monopoly,  allowing you to charge double the listed
+ rent. Once you  have a monopoly, you can start to build houses and eventually a hotel,
+ raising the rent further. Of course, when you land on an opponent’s property, you have to 
+ pay the rent either. If you land on an available property, but decline to buy it, then the 
+ banker will open an auction to buy that property, with the highest bidder. The bank starts  the
+ bidding at any price and all players can participate in, including the player who originally 
+ declined the property. You can be sent to the JAIL in three ways, by landing on the square 
+ marked GO TO JAIL, by picking a “Go to jail” card (from CHANCE or COMMUNITY CHEST) or by 
+ throwing  three doubles in a row. You can also get out of jail in three ways: using the “Get
+ out of Jail Free” card, rolling doubles on one of three consecutive turns. If you don’t roll
+ doubles after three turns, you have to pay $500 to get out of jail. While in jail, you can 
+ still buy or  sell properties, and collect rent. Once you pick the  card “ Go to jail “, you 
+ won’t be collect $500 salary as you pass to the GO until the next time you pass the GO square.
+ You can mortgage your own properties to the bank to make debts and take it out with the price 
+ of the property plus its 10%. A player goes bankrupt when he or she doesn’t have enough cash 
+ or assets to pay the bank. Players can sell houses and  hotels back to the bank for half of 
+ their original value- but if that doesn’t provide enough cash, the bankrupt player forfeits 
+ all properties to the bank or an opponent and is out of the game.   "END OF GAME: the first 
+ player go to bankrupt retires from the game as in standard game. However, as soon as a second  
+ player goes bankrupt, the game ends. Each remaining player then adds together: Cash in handSite,
+ Utilities and Stations owned by him or her at the price printed on the board;  Any mortgaged
+ property owned by him at one-half of the price printed on the board; Houses, valued at purchase
+ price; Hotels, valued at the purchase price including the value of the three Houses exchanged;
+ 
+ The richest player will win.
