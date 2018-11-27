@@ -161,6 +161,8 @@ public class LoginForm extends JFrame implements ActionListener {
 //									}
 //								}
 									g += 2;
+									pi.setVisible(false);
+									mb.setVisible(true);
 								}
 							}
 
@@ -184,9 +186,8 @@ public class LoginForm extends JFrame implements ActionListener {
 			}
 		}
 		
-		//maingame
-		pi.setVisible(false);
-		mb.setVisible(true);
+		
+		
 		
 	}
 
