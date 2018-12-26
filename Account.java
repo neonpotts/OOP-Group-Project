@@ -4,17 +4,15 @@ import java.util.ArrayList;
 public class Account { 
 	private String Name;
 	private int Money;
-//	private static int no = 0; 
-	public int x;
-	public int y;
+	
+	// Account's constructor
 	public Account(String name){
 		this.Name = name;
 		this.Money = 1500;
-	//	no++;
-		this.x = x;
-		this.y = y;
 		
 	}
+	
+	// Getter and Setter
 	public String getName() {
 		return Name;
 	}
@@ -28,7 +26,7 @@ public class Account {
 		Money = money;
 	}
 	
-
+	// Display the Account
 	public String toString(){
 		return String.format("Name: %s\nMoney: %d\n--------------",Name,Money);
 	}
