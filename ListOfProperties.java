@@ -5,6 +5,7 @@ public class ListOfProperties extends Lands{
 	public ListOfProperties(ListOfAccounts listofacc){
 		this.acc = listofacc;
 	}
+	// check if the Property exits or not
 	public void checkAvailable(Property p){
 		int x = checkProperty(p);
 		if(x == 1){
@@ -18,17 +19,25 @@ public class ListOfProperties extends Lands{
 		}
 	}
 	
+	
+	// add property
 	public void add(Property p){
 		listofp.add(p);
 	}
+	
+	//remove property
 	public void removeProperty(Property p){
 		listofp.remove(p);
 	}
+	
+	//display
 	public void DisplayProperties(){
 		for(int i = 0;i < listofp.size(); i++){
 			System.out.println(listofp.get(i));
 		}
 	}
+	
+	//search the information about the property
 	public void Search(Property p){
 		int x = checkProperty(p);
 		if(x == 1){
@@ -40,6 +49,8 @@ public class ListOfProperties extends Lands{
 			}
 		}
 	}
+	
+	// check if the property is in the list or not
 	public int checkProperty(Property p){
 		if(listofp.contains(p)){
 			return 1;
@@ -49,6 +60,8 @@ public class ListOfProperties extends Lands{
 			return 0;
 		}
 	}
+	
+	// inherit from the Lands superclass 
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
